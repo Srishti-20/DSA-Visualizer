@@ -1,0 +1,57 @@
+/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  word-spacing: 2;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff; /* Light gray background */
+}
+
+.container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  color: #000000; /* Dark gray color */
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  margin-top: 50px;
+}
+
+.array-container {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.array-bar {
+  width: 20px;
+  margin: 0 1px;
+  background-color: #204380; /* Dark blue */
+}
+
+.button-container {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 12px 24px;
+  margin: 0 10px;
+  font-size: 16px;
+  color: #fbfafa;
+  background-color: #4caf50; /* Green */
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
+
+select {
+  padding: 10px;
+  font-size: 16px;
+}
