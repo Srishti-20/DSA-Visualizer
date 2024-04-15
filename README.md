@@ -9,40 +9,49 @@ Start:-
 
 <img width="1440" alt="Screenshot 2024-04-16 at 1 06 34 AM" src="https://github.com/Srishti-20/RK/assets/93029264/052f751b-7f22-4cac-ac6b-bad2e86e8341">
 
+
 Comparisons:-
 
 <img width="1440" alt="Screenshot 2024-04-16 at 1 07 14 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/dfaff1bb-e6f2-4528-a353-7c9f67f25e85">
+
 
 Final Sorted Array:-
 
 <img width="1439" alt="Screenshot 2024-04-16 at 1 07 28 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/e4488d12-e6f3-4a25-b9ae-c670254dde4d">
 
+
 2) Stack Visualizer
 
 Start and Restart:-
 
-<img width="752" alt="Screenshot 2024-04-16 at 1 30 19 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/bba62f06-3a74-4cec-9d67-f9e62583a5c3">
+<img width="1440" alt="Screenshot 2024-04-16 at 1 41 17 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/2f8e4ebe-ddc6-42d4-b01e-70a2f556df0f">
+
 
 Push:-
 
-<img width="602" alt="Screenshot 2024-04-16 at 12 58 35 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/fd6054ba-bb2d-4b20-8880-21239c68ee6c">
+<img width="1439" alt="Screenshot 2024-04-16 at 1 41 53 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/8de5a553-d4b1-491c-99b0-be0a6a0eafb5">
+
 
 Pop:-
 
-<img width="624" alt="Screenshot 2024-04-16 at 12 58 54 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/da493e4c-48c8-4073-ba49-6f4caec23f67">
+<img width="1440" alt="Screenshot 2024-04-16 at 1 42 23 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/da32d2a2-f7ae-4dec-b19e-5e8cccc3c24d">
+
 
 3) Queue Visualizer
 
 Start:-
 
-<img width="692" alt="Screenshot 2024-04-16 at 1 34 22 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/9f706a33-1ad6-47f1-bd0d-0d5af089b7f5">
+<img width="1439" alt="Screenshot 2024-04-16 at 1 39 49 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/d16fbfae-0575-42ac-9ccf-b3d9d3eef3c9">
+
 
 Enqueue:-
 
-<img width="559" alt="Screenshot 2024-04-16 at 12 56 57 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/5f7e768b-c5d6-41c6-bb9f-dc28a8ae19d4">
+<img width="1440" alt="Screenshot 2024-04-16 at 1 40 21 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/66a12591-42e7-406f-a270-da7f7bb6f55c">
+
 
 Dequeue:-
 
-<img width="489" alt="Screenshot 2024-04-16 at 12 57 20 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/7bd8d481-ceeb-4ffc-9a46-935520a6a0d2">
+<img width="1440" alt="Screenshot 2024-04-16 at 1 40 39 AM" src="https://github.com/Srishti-20/DSA-Visualizer/assets/93029264/67078f1b-0fab-4c80-8c61-0341fbba9168">
+
 
 ---
